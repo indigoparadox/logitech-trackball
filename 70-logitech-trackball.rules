@@ -1,1 +1,0 @@
-ACTION=="add", ATTRS{name}=="Logitech USB Trackball", RUN+="/usr/local/bin/trackball
